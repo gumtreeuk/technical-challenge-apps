@@ -19,7 +19,7 @@ The Vehicle API available at: https://vpic.nhtsa.dot.gov/api/
 - The user should be able to search by make, model, and year
 - The user should be able to navigate into a vehicle details page
 
-## General Coding Guideline
+## General Coding Guidelines
 - Don't check in unnecessary files. Use .gitignore to exclude bin folder and other unnecessary files.
 - Following best coding practices (SOLID, DRY and KISS, leverage OOP principles).
 - Write clear, maintainable code.
