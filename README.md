@@ -3,7 +3,7 @@
 ## The task
 Your task is to develop a small flutter application. We need you to build your application in your own GitHub repository. Please do not fork our repository to create your project. Once you are done, send us a link to your repository.
 
-Feel free to spend as much time on the task as you like however we have other candidates going through the process at the same time. Thus we recommend one week turnaround from when you received the assessment.
+Feel free to spend as much time on the task as you like but bear in mind that we are assessing other candidates at the same time. Thus we recommend one week turnaround from when you received the assessment until that assessment gets to us.
 
 ## The application
 The application should be based on the existing functionality of the Motors.co.uk mobile app. For scope of this assignment, we would like you to focus on:
