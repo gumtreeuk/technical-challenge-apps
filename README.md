@@ -1,7 +1,5 @@
 # technical-assignment-flutter-mobile
 
-# technical-assignment-flutter-mobile
-
 ## The task
 Your task is to develop a small flutter application. We need you to build your application in your own GitHub repository. Please do not fork our repository to create your project. Once you are done, send us a link to your repository.
 
