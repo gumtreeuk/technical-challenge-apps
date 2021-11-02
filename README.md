@@ -11,13 +11,64 @@ The application should be based on the existing functionality of the Motors.co.u
 2. Ability to search by make, model, and year
 3. Display the search results on the screen
 
-The Vehicle API available at: http://edmundsapi-preprod.github.io/api-documentation/vehicle/spec_model/v2/01_list_of_models/api-request
+To get search results you can use this simple mock API call:
+
+http://mcuapi.mocklab.io/search?make=[make]&model=[model]&year=[year]
+
+For example:
+
+http://mcuapi.mocklab.io/search?make=Nissan&model=Juke&year=2020
+
+Will return:
+```json
+{
+  "searchResults": [
+    {
+      "id": "221843",
+      "name": "Nissan Juke",
+      "title": "Nice car for sale",
+      "make": "Nissan",
+      "model": "Juke",
+      "year": "2020",
+      "price": "£212.00"
+    },
+    {
+      "id": "397286",
+      "name": "Nissan Juke",
+      "title": "Used car in mint condition",
+      "make": "Nissan",
+      "model": "Juke",
+      "year": "2020",
+      "price": "£201.00"
+    },
+    {
+      "id": "390251",
+      "name": "Nissan Juke",
+      "title": "Low mileage car for sale",
+      "make": "Nissan",
+      "model": "Juke",
+      "year": "2020",
+      "price": "£307.00"
+    },
+    {
+      "id": "012565",
+      "name": "Nissan Juke",
+      "title": "Car for sale with unique specs",
+      "make": "Nissan",
+      "model": "Juke",
+      "year": "2020",
+      "price": "£389.00"
+    }
+  ]
+}
+```
 
 ## Acceptance Criteria
 - The user should be able to search by make, model, and year
 - The user should be able to scroll through results on the screen
 
 ## General Coding Guidelines
+- Use the data that is available in the API response. If there's extra data you'd like to display, use dummy local data.
 - Don't check in unnecessary files. Use .gitignore to exclude bin folder and other unnecessary files.
 - Following best coding practices (SOLID, DRY and KISS, leverage OOP principles).
 - Write clear, maintainable code.
