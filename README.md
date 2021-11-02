@@ -11,7 +11,7 @@ The application should be based on the existing functionality of the Motors.co.u
 2. Ability to search by make, model, and year
 3. Display the search results on the screen
 
-To get search results you can use this simple mock API call:
+To get search results you can use Postman and this simple mock API call:
 
 http://mcuapi.mocklab.io/search?make=[make]&model=[model]&year=[year]
 
@@ -68,6 +68,7 @@ Will return:
 - The user should be able to scroll through results on the screen
 
 ## General Coding Guidelines
+- The API call doesn't work on the browser, you need to use PostMan to access it.
 - Use the data that is available in the API response. If there's extra data you'd like to display, use dummy local data.
 - Don't check in unnecessary files. Use .gitignore to exclude bin folder and other unnecessary files.
 - Following best coding practices (SOLID, DRY and KISS, leverage OOP principles).
