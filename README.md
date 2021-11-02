@@ -11,11 +11,11 @@ The application should be based on the existing functionality of the Motors.co.u
 2. Ability to search by make, model, and year
 3. Display the search results on the screen
 
-The Vehicle API available at: https://vpic.nhtsa.dot.gov/api/
+The Vehicle API available at: http://edmundsapi-preprod.github.io/api-documentation/vehicle/spec_model/v2/01_list_of_models/api-request
 
 ## Acceptance Criteria
 - The user should be able to search by make, model, and year
-- The user should be able to navigate into a vehicle details page
+- The user should be able to scroll through results on the screen
 
 ## General Coding Guidelines
 - Don't check in unnecessary files. Use .gitignore to exclude bin folder and other unnecessary files.
