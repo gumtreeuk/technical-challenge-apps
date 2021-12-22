@@ -1,7 +1,7 @@
 # technical-challenge-apps
 
 ## The task
-Your task is to develop a small flutter application. We need you to build your application in your own GitHub repository. Please do not fork our repository to create your project. Once you are done, send us a link to your repository.
+Your task is to develop a small Android application in Java or Kotlin. We need you to build your application in your own GitHub repository. Please do not fork our repository to create your project. Once you are done, send us a link to your repository.
 
 Feel free to spend as much time on the task as you like but bear in mind that we are assessing other candidates at the same time. Thus we recommend one week turnaround from when you received the assessment until that assessment gets to us.
 
@@ -74,7 +74,7 @@ Will return:
 - Following best coding practices (SOLID, DRY and KISS, leverage OOP principles).
 - Write clear, maintainable code.
 - Leverage design patterns.
-- Please do not use database, we are more interested in your Flutter and coding skills than your SQL skills
+- Please do not use database, we are more interested in your Android and coding skills than your SQL skills
 - Feel free to commit as often as you'd like. The more commits the better! Please commit at least once within the first hour
 
 ## Expectations
