@@ -9,7 +9,7 @@ http://mcu-search-mock.mocklab.io/search?make=rAv&model=BQ9m88M6T79&year=kjh
 
 1. Open developer tools on Google Chrome
 2. Go to the network tab
-3. Paste the correct query as per Readme.md file
+3. Paste the correct query as per [Readme.md](https://github.com/gumtreeuk/technical-challenge-apps/blob/main/README.md)
 4. Press enter
 You should see the response and the search result items in that view
 
