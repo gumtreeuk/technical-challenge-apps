@@ -62,7 +62,7 @@ Will return:
   ]
 }
 ```
-***If the api is not working on your browser, please use developer tools on your browser and check the network traffic. You should be able to see the JSON returned in there.***
+***If the api is not working on your browser, please use developer tools on your Google Chrome and check the response in the network traffic tab. You should be able to see the JSON returned in there. See the [troubleshooting instructions](https://github.com/gumtreeuk/technical-challenge-apps/blob/main/troubleshooting.md) for more details.***
 
 ## Acceptance Criteria
 - The user should be able to search by make, model, and year
