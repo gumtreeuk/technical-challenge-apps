@@ -62,6 +62,7 @@ Will return:
   ]
 }
 ```
+***If the api is not working on your browser, please use developer tools on your browser and check the network traffic. You should be able to see the JSON returned in there.***
 
 ## Acceptance Criteria
 - The user should be able to search by make, model, and year
