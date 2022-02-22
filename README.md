@@ -1,9 +1,12 @@
 # technical-challenge-apps
 
 ## The task
-Your task is to develop a small Android application in Java or Kotlin. We need you to build your application in your own GitHub repository. Please do not fork our repository to create your project. Once you are done, send us a link to your repository.
+Thank you for your interest and time interviewing with us! Your task is to develop a small mobile application. We need you to build your application in your own GitHub repository. Please do not fork our repository to create your project. Once you are done, send us a link to your repository.
 
-Feel free to spend as much time on the task as you like but bear in mind that we are assessing other candidates at the same time. Thus we recommend one week turnaround from when you received the assessment until that assessment gets to us.
+If you're applying for the Android role, please develop the app using Java and/or Kotlin.
+If you're applying for the iOS role, please develop the app using Objective C and/or Swift.
+
+Feel free to spend as much time on the task as you like to demonstrate your skills and experience level. But bear in mind that we are assessing other candidates at the same time. Thus we recommend one week turnaround from when you received the assessment until that assessment gets to us.
 
 ## The application
 The application should be based on the existing functionality of the Motors.co.uk mobile app. For scope of this assignment, we would like you to focus on:
